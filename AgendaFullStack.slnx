@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="agendafullstack.client/agendafullstack.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AgendaFullStack.Server/AgendaFullStack.Server.csproj" />
+</Solution>
